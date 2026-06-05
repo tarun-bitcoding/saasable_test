@@ -1,0 +1,13 @@
+# Environment / secrets
+!.env.example
+
+# Logfire local credentials
+.logfire/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+config.bat
+node_modules
